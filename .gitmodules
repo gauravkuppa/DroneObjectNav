@@ -1,3 +1,6 @@
 [submodule "habitat-sim"]
 	path = habitat-sim
 	url = https://github.com/facebookresearch/habitat-sim
+[submodule "Neural-SLAM"]
+	path = Neural-SLAM
+	url = https://github.com/devendrachaplot/Neural-SLAM.git
